@@ -1,2 +1,2 @@
 # Project_test1
-Testing out how to create a repo for our projects
+Testing out how to create a repository for our projects
